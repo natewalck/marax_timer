@@ -109,7 +109,6 @@ void detectChanges() {
     timerDisplayOffMillis = 0;
     timerCount = 0;
     prevTimerCount = 0;
-    displayOn = false;
     Serial.println("Sleep");
   }
 }
